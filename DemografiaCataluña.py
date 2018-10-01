@@ -1,3 +1,7 @@
+#El programa está construido en Python3
+#Deben tener instalado SQLite
+#Para descargar el database: 
+
 ############################IMPORTANDO LIBRERIAS##################
 #Entornos del tkinter:
 import tkinter as tk
@@ -22,7 +26,6 @@ municipios =[]
 for dato in datos:
     municipios.append(dato[0])
 #Variables globales:
-#color= 'royalblue3'
 color='black'
 wb=100
 hb=30
