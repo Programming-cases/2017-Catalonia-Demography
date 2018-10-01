@@ -1,5 +1,5 @@
 #EL programa está construido en Python3
-#Se debe de tener instalado SQLite
+#Se debe tener instalado SQLite
 
 ############################IMPORTANDO LIBRERIAS##################
 #Entornos del tkinter:
