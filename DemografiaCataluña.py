@@ -82,7 +82,7 @@ def graficar():
     #Piechart:
     ax2=fig.add_subplot(3,2,5)
     piedato = [data.hombres[11],data.mujeres[11]]
-    wedges, texts, autotexts= ax2.pie(piedato, colors= col, autopct='%1.0f%%',shadow= True,startangle=90)
+    wedges, texts, autotexts= ax2.pie(piedato, colors= col, autopct='%1.0f%%',shadow= True,startangle=90,radius= 0.8)
     #Texto del total de la poblacion:
     ax3=fig.add_subplot(3,2,6)
     ax3.text(0.0,0.5,total + ' hab.',fontsize=19,fontweight='bold')
@@ -96,7 +96,7 @@ def graficar():
     plt.setp(autotexts, size=10, weight="bold")
     fig.suptitle(municipio, y = 1,fontsize=23)
     plt.tight_layout()
-    plt.subplots_adjust(top=0.9)
+    plt.subplots_adjust(top=0.9,right =0.9)
     file= municipio + '.png'
     plt.savefig(file)
     plt.close(fig)
