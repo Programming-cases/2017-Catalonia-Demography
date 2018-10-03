@@ -1,4 +1,5 @@
 #EL programa está construido en Python3
+#Se debe descargar el dataset adjunto
 #Se debe tener instalado SQLite
 
 ############################IMPORTANDO LIBRERIAS##################
