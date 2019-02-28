@@ -4,6 +4,4 @@
 ```Python
      ! pip install sqlite3
    ```  
-<p> 
-<img src="C:/Users/juand/Documents/Fotos/Presentacion.jpg"> 
-</p> 
+![alt text](C:\Users\juand\Documents\Fotos\Presentacion.jpg)
