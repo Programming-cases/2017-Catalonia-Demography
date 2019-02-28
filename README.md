@@ -4,4 +4,4 @@
 ```Python
      ! pip install sqlite3
    ```  
-![picture](C:/Users/juand/Documents/Fotos/Presentacion.jpg)
+![picture](Presentacion.jpg)
