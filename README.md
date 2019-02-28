@@ -5,5 +5,5 @@
      ! pip install sqlite3
    ```  
 <p> 
-<img src="C:\Users\juand\Documents\Fotos\Presentacion.jpg"> 
+<img src="C:/Users/juand/Documents/Fotos/Presentacion.jpg"> 
 </p> 
