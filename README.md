@@ -5,4 +5,4 @@
      ! pip install sqlite3
   ```
 #
-![picture](Presentacion.jpg)
+![](Presentacion.jpg)
