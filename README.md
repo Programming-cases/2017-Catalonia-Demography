@@ -2,7 +2,7 @@
 
 ![](Presentacion.jpg)
 
-*Obs:*
+*Notes:*
 - Contains the dataset in **`SQLite`**  format and the program in ***Python***
 - Don't forget to install it:
 ```Python
