@@ -3,7 +3,7 @@
 ![](Presentacion.jpg)
 
 *Notes:*
-- Contains the dataset in **`SQLite`**  format and the program in ***Python***
+- The program  is made in ***Python*** and the dataset is contained in **`SQLite`**  format 
 - Don't forget to install it:
 ```Python
      ! pip install sqlite3
